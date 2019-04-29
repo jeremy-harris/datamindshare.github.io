@@ -1,5 +1,11 @@
-docs_list_title: ACME Documentation
+docs_list_title: More Info
 docs:
+
+- title: Portfolio
+url: portfolio.md
+
+- title: Blog
+url: https://jeremy-harris.github.io
 
 - title: Contact Us
 url: contactus.md
