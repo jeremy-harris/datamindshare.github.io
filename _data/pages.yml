@@ -2,7 +2,7 @@ docs_list_title: More Info
 docs:
 
 - title: Blog
-url: https://jeremy-harris.github.io
+  url: https://jeremy-harris.github.io
 
 - title: Contact Us
-url: contact.md
+  url: contact.md
