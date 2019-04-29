@@ -1,8 +1,6 @@
 ## DataMindshare
 
-You can use the [editor on GitHub](https://github.com/jeremy-harris/datamindshare.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DataMindshare is a veteran-owned Data Analytics and Small Business consulting company. DataMindshare provides expertise to business clients who want to answer questions using data to explore, visualize, predict and automate powerful solutions. DataMindshare is an expert in small business and consults with clients who are starting, running, growing, struggling or selling a small business. We have years of entreprenual experience including starting, operating and selling companies. 
 
 ### Markdown
 
