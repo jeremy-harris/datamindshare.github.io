@@ -1,6 +1,6 @@
 ## DataMindshare
 
-DataMindshare is a veteran-owned Data Analytics and Small Business consulting company. DataMindshare provides expertise to business clients who want to answer questions using data to explore, visualize, predict and automate powerful solutions. DataMindshare is an expert in small business and consults with clients who are starting, running, growing, struggling or selling a small business. We have years of entreprenual experience including starting, operating and selling companies. 
+DataMindshare is a veteran-owned Data Analytics and Small Business consulting company. DataMindshare provides expertise to business clients who want to answer questions using data and we are experts in small business and consult with clients who are starting, running, growing, struggling or selling a small business. 
 
 ### Markdown
 
